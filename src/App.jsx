@@ -1,10 +1,10 @@
 import React from "react";
 import Navbar from "./Components/Navbar.jsx";
-import Home from "./components/Home.jsx";
-import Menu from "./components/Menu.jsx";
-import About from "./components/About.jsx";
+import Home from "./Components/Home.jsx";
+import Menu from "./Components/Menu.jsx";
+import About from "./Components/About.jsx";
 import Product from "./Components/Product.jsx";
-import Review from "./components/Review.jsx";
+import Review from "./Components/Review.jsx";
 import Footer from "./Components/Footer.jsx";
 
 const App = () => {
