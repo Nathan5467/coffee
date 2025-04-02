@@ -1,11 +1,11 @@
 import React from "react";
-import Navbar from "./components/Navbar";
-import Home from "./components/Home";
-import Menu from "./components/Menu";
-import About from "./components/About";
-import Product from "./Components/Product";
-import Review from "./components/Review";
-import Footer from "./Components/Footer";
+import Navbar from "./Components/Navbar.jsx";
+import Home from "./components/Home.jsx";
+import Menu from "./components/Menu.jsx";
+import About from "./components/About.jsx";
+import Product from "./Components/Product.jsx";
+import Review from "./components/Review.jsx";
+import Footer from "./Components/Footer.jsx";
 
 const App = () => {
   return (
