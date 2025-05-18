@@ -93,12 +93,12 @@ Dive into a world of aromatic brews and artisanal flavors. Discover the perfect 
       <div>
         <p>
           <p className=" text-center py-4">
-            @copyright 2025 developed by
+          © Copyright 2025 
             <span className=" text-backgroundColor">
               {" "}
-              Nathan{" "}
+            by Nathan{" "}
             </span>
-            | All rights reserved
+            | All rights reserved.
           </p>
         </p>
       </div>
